@@ -4,9 +4,25 @@
 ---
 
 ```markdown
-# Bookstore Management System
 
 A simple Spring Boot REST API for managing bookstore inventory.
+## Objectives
+
+- Learn Spring Boot fundamentals  
+- Practice building REST APIs  
+- Understand JPA/Hibernate  
+- Connect Java applications to MySQL  
+- Build a functional CRUD backend  
+
+---
+
+## Installation & Setup
+
+### Requirements
+- Java 17+
+- MySQL Server
+- Maven
+- VS Code or IntelliJ
 
 ## Features
 - Add books  
